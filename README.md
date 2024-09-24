@@ -1,6 +1,6 @@
 # testapp1
 
-An application that detects shapes form a surface and grpahically represent it using an AR vision.
+An application that detects shapes form a surface and graphically represent it using an AR vision.
 
 ## Getting Started
 
