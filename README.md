@@ -1,6 +1,6 @@
 # testapp1
 
-A new Flutter project.
+An application that detects shapes form a surface and grpahically represent it using an AR vision.
 
 ## Getting Started
 
